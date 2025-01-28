@@ -1,6 +1,0 @@
-Hi Devops
-Adding new row in github repository
-Adding another extra row
-Adding new row in github repository
-
-## this is a new line--1
