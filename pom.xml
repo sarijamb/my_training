@@ -45,6 +45,6 @@
         <id>nexus-release</id>
         <url>http://18.232.152.255:8081/repository/nexus-release/</url>
     </repository>
-</distributionManagement>
+    </distributionManagement>
 </project>
 
