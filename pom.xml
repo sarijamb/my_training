@@ -43,7 +43,7 @@
     <distributionManagement>
     <repository>
         <id>nexus-releases</id>
-        <url>http://3.93.199.151:8081/repository/jenkins-integration/</url>
+        <url>http://54.82.111.96:8081/repository/jenkins-integration/</url>
     </repository>
 </distributionManagement>
 </project>
