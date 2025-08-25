@@ -1,4 +1,4 @@
-<project xmlns="http://maven.apache.org/POM/1.0.0.0"
+<project xmlns="http://maven.apache.org/POM/2.0.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
@@ -42,8 +42,8 @@
     </build>
     <distributionManagement>
     <repository>
-        <id>nexus-release</id>
-        <url>http://100.27.226.52:8081/repository/nexus-release/</url>
+ <id>nexus-jenkins</id>
+        <url>http://16.171.22.201:8081/repository/nexus-jenkins/</url>
     </repository>
     </distributionManagement>
 </project>
