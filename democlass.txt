@@ -1,4 +1,0 @@
-Hi Devops
-Adding new row in github repository
-Adding another extra row
-THis is Gnana feature branch Which i am going to delete after my feature is done!!`
