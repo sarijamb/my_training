@@ -42,7 +42,7 @@
     </build>
     <distributionManagement>
     <repository>
-        <id>nexus-jenkins</id>
+ <id>nexus-jenkins</id>
         <url>http://16.171.22.201:8081/repository/nexus-jenkins/</url>
     </repository>
     </distributionManagement>
